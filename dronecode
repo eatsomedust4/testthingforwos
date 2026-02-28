@@ -1,0 +1,1 @@
+GetPartFromPort(1, "Gyro"):Configure({Seek="AllExcep AAAAA"})
