@@ -1,1 +1,10 @@
-GetPartFromPort(1, "Gyro"):Configure({Seek="AllExcep AAAAA"})
+print("confrontor class drone embeded system V0.0.1")
+
+function setgyros()
+  local configuation = "radar perfectium"
+  GetPartFromPort(1, "Gyro"):Configure({Seek=configuation})
+  GetPartFromPort(2, "Gyro"):Configure({Seek=configuation})
+  GetPartFromPort(3, "Gyro"):Configure({Seek=configuation})
+end
+
+setgyros()
