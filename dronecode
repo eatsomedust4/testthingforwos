@@ -1,5 +1,5 @@
 print("confrontor class drone embeded system V0.0.1")
 
-GetPartFromPort(1, "Gyro"):Configure({Seek="Lodire2O"})
-GetPartFromPort(2, "Gyro"):Configure({Seek="Lodire2O"})
-GetPartFromPort(3, "Gyro"):Configure({Seek="Lodire2O"})
+GetPartFromPort(1, "Gyro"):Configure({Seek="Lodire2O Denis8De xxk111"})
+GetPartFromPort(2, "Gyro"):Configure({Seek="Lodire2O Denis8De xxk111"})
+GetPartFromPort(3, "Gyro"):Configure({Seek="Lodire2O Denis8De xxk111"})
